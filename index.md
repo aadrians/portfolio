@@ -4,13 +4,13 @@
 
 ### Projects 
 
-[Excel Dashboard](/sample_page)
+[Excel Dashboard](pdf/diamonds.xlsx)
 <img src="images/Diamonds.jpg?raw=true"/>
 
 <img src="images/Diamonds_Dashboard.jpg?raw=true"/>
 
 ---
-[MS SQL](/pdf/sample_presentation.pdf)
+[MS SQL](pdf/HairSalon_PP.pptx)
 <img src="images/HairSalon_Main_SQL.jpg?raw=true"/>
 
 <img src="images/HairSalon_Busiest.jpg?raw=true"/>
@@ -25,12 +25,12 @@
 
 
 ---
-[PowerBI](http://example.com/)
+[PowerBI](pdf/UKAccident.pbix)
 <img src="images/UKAccidents_PowerBI.jpg?raw=true"/>
 
 
 ---
-[Python](http://example.com/)
+[Python](pdf/Diamonds_df.pptx)
 <img src="images/Diamonds_Python.jpg?raw=true"/>
 
 <img src="images/Diamonds_Python_Results.jpg?raw=true"/>
