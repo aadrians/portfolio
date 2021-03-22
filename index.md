@@ -22,9 +22,12 @@
 <img src="images/HairSalon_StoredProcedures.jpg?raw=true"/>
 
 <img src="images/HairSalon_Functions.jpg?raw=true"/>
+
+
 ---
 [PowerBI](http://example.com/)
 <img src="images/UKAccidents_PowerBI.jpg?raw=true"/>
+
 
 ---
 [Python](http://example.com/)
@@ -33,6 +36,8 @@
 <img src="images/Diamonds_Python_Results.jpg?raw=true"/>
 
 <img src="images/Diamonds_Python_Feature.jpg?raw=true"/>
+
+
 
 ---
 
