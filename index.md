@@ -5,7 +5,9 @@
 ### Projects 
 
 [Excel Dashboard](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Diamonds.jpg?raw=true"/>
+
+<img src="images/Diamonds_Dashboard.jpg?raw=true"/>
 
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
