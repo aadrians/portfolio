@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[PowerBI](http://example.com/)
+[Python](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
