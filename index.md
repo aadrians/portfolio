@@ -11,15 +11,28 @@
 
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/HairSalon_Main_SQL.jpg?raw=true"/>
 
+<img src="images/HairSalon_Busiest.jpg?raw=true"/>
+
+<img src="images/HairSalon_Topclients.jpg?raw=true"/>
+
+<img src="images/HairSalon_NoShow.jpg?raw=true"/>
+
+<img src="images/HairSalon_StoredProcedures.jpg?raw=true"/>
+
+<img src="images/HairSalon_Functions.jpg?raw=true"/>
 ---
 [PowerBI](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/UKAccidents_PowerBI.jpg?raw=true"/>
 
 ---
 [Python](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Diamonds_Python.jpg?raw=true"/>
+
+<img src="images/Diamonds_Python_Results.jpg?raw=true"/>
+
+<img src="images/Diamonds_Python_Feature.jpg?raw=true"/>
 
 ---
 
