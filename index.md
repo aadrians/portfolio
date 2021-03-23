@@ -3,7 +3,9 @@
 
 ### Projects 
 
-<h2 id="BS">[Basic Science](pdf/AntGroup.pdf)</h2>
+<h2 id="BS">
+[Basic Science](pdf/AntGroup.pdf)
+</h2>
 <img src="images/AntGroup.jpg?raw=true"/>
 
 
@@ -45,7 +47,7 @@
 
 ---
 
-<a href="#Portfolio">Go to top</a>
+<p><a href="#Portfolio">Go to top</a></p>
 <a href="#BS">Basic Science</a>
 ---
 
