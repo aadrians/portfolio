@@ -47,8 +47,8 @@
 
 ---
 
-- [Go to the top](<a href="#Portfolio">Go to top</a>)
-<p><a href="#BS">Basic Science</a></p>
+- <a href="#Portfolio">Go to top</a>
+- <a href="#BS">Basic Science</a>
 ---
 
 
