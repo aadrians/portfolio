@@ -16,7 +16,7 @@
 <p>
 This is the initial project where the objective is for us to have a better understanding on what is Data Science.
 We are tasked to search for practical applications/use cases of data science in the article(s) and identify the different aspects of the basics of data science application to that selected articles.
-
+</p>
 - <a href="#Portfolio">Go to top</a>
 
 <h2 id="ED">Capstone Project 1: Excel Dashboard</h2>
