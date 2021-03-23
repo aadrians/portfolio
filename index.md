@@ -41,20 +41,20 @@ Thankfully, the data was quite complete and little to be done on 'cleaning' the 
 <p>
 The objective of the analysis is to create visualisation of the data and to estimate the price of diamonds given some criteria.
 In the midst of preparing the visuals on carat size, the different carats in the raw data makes the chart difficult to read. Therefore, I grouped the carat sizes into few categories and the grouping makes the chart more presentable.
-For the visualisation, I focused on the 4Cs: Carat, Cut, Color and Clarity.
+For the visualisation, I focused on the 4Cs: Carat, Color, Clarity and Cut.
 The dashboard can be seen from below image.
 </p>
 
 <img src="images/Diamonds_Dashboard.jpg?raw=true"/>
 
 <p>
-The visuals present meaningful insights to different aspects of the data. Using the pie charts for the proportions of the 4Cs allows us to see the numbers of diamonds in each category, while the hybrid of bar and line charts present us with the count and average price of the diamonds in different categories.
-Slicers were also added for easy filtering. When the different categories are selected, the charts changes accordingly to the filters. This enables us to look at the charts based on the selection and gained insights such as trends.
+The visuals presented meaningful insights to different aspects of the data. Using the pie charts for the proportions of the 4Cs allows us to see the numbers of diamonds in each category, while the hybrid of bar and line charts present us with the count and average price of the diamonds in different categories.
+Slicers were also added for easy filtering. When the different categories are sliced, the charts changes accordingly to the filters. This enables us to look at the charts based on the selection and gained insights such as trends.
 From the chart analysis, I was able to conclude that the dominant factor of diamond's price is the carat size.
 </p>
 
 <p>
-To add more fun to the project, I created an average price graph for the estimation of diamond price based on selected criteria. A fellow classmate is to indicate the budget and the 4Cs which I gave an estimated price from the graph based on the selection.
+To add more fun to the project, I created an average price graph for the estimation of diamond price based on selected criteria. A fellow classmate is to indicate the budget and the 4Cs in which an estimated price from the graph was given based on the selection.
 The graph can be referenced from the image below.
 </p>
 
