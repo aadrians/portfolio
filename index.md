@@ -48,7 +48,14 @@ The dashboard can be seen from below image.
 <img src="images/Diamonds_Dashboard.jpg?raw=true"/>
 
 <p>
-The visuals present meaningful insights to different aspects of the data. Using the pie charts for the count of the 4Cs allows us to see the numbers of diamonds in each category, while the hybrid of bar and line charts 
+The visuals present meaningful insights to different aspects of the data. Using the pie charts for the proportions of the 4Cs allows us to see the numbers of diamonds in each category, while the hybrid of bar and line charts present us with the count and average price of the diamonds in different categories.
+Slicers were also added for easy filtering. When the different categories are selected, the charts changes accordingly to the filters. This enables us to look at the charts based on the selection and gained insights such as trends.
+From the chart analysis, I was able to conclude that the dominant factor of diamond's price is the carat size.
+</p>
+
+<p>
+To add more fun to the project, I created an average price graph for the estimation of diamond price based on selected criteria. A fellow classmate is to indicate the budget and the 4Cs which I gave an estimated price from the graph based on the selection.
+The graph can be referenced from the image below.
 </p>
 
 
