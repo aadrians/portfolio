@@ -1,4 +1,4 @@
-## <h1 id="Portfolio">Portfolio</h1>
+<h1 id="Portfolio">Portfolio</h1>
 ---
 - <a href="#BS">Basic Science</a>
 - <a href="#ED">Excel Dashboard</a>
@@ -7,7 +7,7 @@
 - <a href="#Py">Python</a>
 ---
 
-### <h2 id="BS">Initial Project: Basic Science</h2>
+<h2 id="BS">Initial Project: Basic Science</h2>
 
 [Download PDF](pdf/AntGroup.pdf)
 
@@ -15,7 +15,7 @@
 
 - <a href="#Portfolio">Go to top</a>
 ---
-### <h3 id= "ED">Capstone Project 1: Excel Dashboard</h3>
+<h3 id= "ED">Capstone Project 1: Excel Dashboard</h3>
 
 [Download excel](pdf/diamonds.xlsx)
 <img src="images/Diamonds.jpg?raw=true"/>
@@ -24,7 +24,7 @@
 
 - <a href="#Portfolio">Go to top</a>
 ---
-### <h4 id= "SQL">Capstone Project 2: MS SQL</h4>
+<h4 id= "SQL">Capstone Project 2: MS SQL</h4>
 
 [Download PDF](pdf/HairSalon_PP.pdf)
 <img src="images/HairSalon_Main_SQL.jpg?raw=true"/>
@@ -41,13 +41,13 @@
 
 - <a href="#Portfolio">Go to top</a>
 ---
-### <h5 id= "PBI">Capstone Project 3: Power BI</h5>
+<h5 id= "PBI">Capstone Project 3: Power BI</h5>
 [Download PowerBI](pdf/UK_Accident.pbix)
 <img src="images/UKAccidents_PowerBI.jpg?raw=true"/>
 
 - <a href="#Portfolio">Go to top</a>
 ---
-### <h6 id= "Py">Capstone Project 4: Python (Modelling)</h6>
+<h6 id= "Py">Capstone Project 4: Python (Modelling)</h6>
 [Download PDF](pdf/Diamonds_df.pdf)
 <img src="images/Diamonds_Python.jpg?raw=true"/>
 
