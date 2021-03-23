@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Basic Science](pdf/Ant Group.pdf)
+[MS SQL](pdf/HairSalon_PP.pdf)
 <img src="images/AntGroup.jpg?raw=true"/>
 
 
