@@ -3,14 +3,18 @@
 ---
 
 ### Projects 
+[Basic Science](pdf/Ant Group.pdf)
+<img src="images/AntGroup.jpg?raw=true"/>
 
+
+---
 [Excel Dashboard](pdf/diamonds.xlsx)
 <img src="images/Diamonds.jpg?raw=true"/>
 
 <img src="images/Diamonds_Dashboard.jpg?raw=true"/>
 
 ---
-[MS SQL](pdf/HairSalon_PP.pptx)
+[MS SQL](pdf/HairSalon_PP.pdf)
 <img src="images/HairSalon_Main_SQL.jpg?raw=true"/>
 
 <img src="images/HairSalon_Busiest.jpg?raw=true"/>
@@ -30,7 +34,7 @@
 
 
 ---
-[Python](pdf/Diamonds_df.pptx)
+[Python](pdf/Diamonds_df.pdf)
 <img src="images/Diamonds_Python.jpg?raw=true"/>
 
 <img src="images/Diamonds_Python_Results.jpg?raw=true"/>
