@@ -3,7 +3,7 @@
 
 ### Projects 
 
-[Basic Science](pdf/AntGroup.pdf)
+<h2 id="BS">[Basic Science](pdf/AntGroup.pdf)</h2>
 <img src="images/AntGroup.jpg?raw=true"/>
 
 
@@ -29,7 +29,7 @@
 
 
 ---
-[PowerBI](pdf/UKAccident.pbix)
+[PowerBI](pdf/UK_Accident.pbix)
 <img src="images/UKAccidents_PowerBI.jpg?raw=true"/>
 
 
@@ -46,7 +46,7 @@
 ---
 
 <a href="#Portfolio">Go to top</a>
-
+<a href="#BS">Basic Science</a>
 ---
 
 
