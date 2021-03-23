@@ -9,8 +9,6 @@
 
 <h2 id="BS">Initial Project: Basic Science</h2>
 
-[Download PDF](pdf/AntGroup.pdf)
-
 <img src="images/AntGroup.jpg?raw=true"/>
 
 <p>
@@ -25,6 +23,8 @@ I selected Ant Group as the point of research and gathered few articles on how A
 <p>
 Through this project, I understand that data analytics is important and crucial to company's growth and enable the company to transform to a smart business which differentiate them from traditional businesses. Company needs good data management and analytical tools to make informed decision as data is only good if we know how to use it.
 </p>
+
+[Download PDF](pdf/AntGroup.pdf)
 
 - <a href="#Portfolio">Go to top</a>
 
