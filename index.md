@@ -1,5 +1,4 @@
-## Portfolio
-<h2 id="Portfolio">Portfolio</h2>
+## <h2 id="Portfolio">Portfolio</h2>
 ---
 
 ### Projects 
