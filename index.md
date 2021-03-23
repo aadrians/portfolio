@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Basic Science](pdf/Ant Group.pdf)
+[Basic Science](pdf/AntGroup.pdf)
 <img src="images/AntGroup.jpg?raw=true"/>
 
 
