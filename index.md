@@ -1,7 +1,7 @@
 ## <h1 id="Portfolio">Portfolio</h2>
 ---
 - <a href="#BS">Basic Science</a>
-- <a href="#ED">Excel Dashboarde</a>
+- <a href="#ED">Excel Dashboard</a>
 - <a href="#SQL">MS SQL</a>
 - <a href="#PBI">Power BI</a>
 - <a href="#Py">Python</a>
