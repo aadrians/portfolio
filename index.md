@@ -4,7 +4,7 @@
 - <a href="#ED">Excel Dashboard</a>
 - <a href="#SQL">MS SQL</a>
 - <a href="#PBI">Power BI</a>
-- <a href="#Python">Python</a>
+<!-- - <a href="#Python">Python</a> -->
 ---
 
 <h2 id="BS">Initial Project: Basic Science</h2>
