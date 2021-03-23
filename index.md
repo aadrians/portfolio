@@ -3,9 +3,9 @@
 
 ### Projects 
 
-<h2 id="BS">
-[Basic Science](pdf/AntGroup.pdf)
-</h2>
+<h2 id="BS">Basic Science</h2>
+[Download PDF](pdf/AntGroup.pdf)
+
 <img src="images/AntGroup.jpg?raw=true"/>
 
 
