@@ -1,5 +1,5 @@
 <h1 id="Portfolio">Portfolio</h1>
----
+
 - <a href="#BS">Basic Science</a>
 - <a href="#ED">Excel Dashboard</a>
 - <a href="#SQL">MS SQL</a>
