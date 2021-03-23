@@ -19,11 +19,11 @@ We are tasked to search for practical applications/use cases of data science in 
 </p>
 
 <p>
-I selected Ant Group as the point of research and gathered few articles on how Ant Group transform itself to a smart business by using machine learning to leverage data. I learnt that Ant Group utilised big and real time data from Alibaba and Alipay to generate credit scores and analysed and calculate the amount to lend and interest to charge. This process allows them to create a scoring and lending system. Their success is largely due to the easy access to big real time data and using these data to their advantage through machine learning and AI technologies.
+I selected Ant Group as the point of research and gathered few articles on how Ant Group transformed itself to a smart business by using machine learning to leverage data. I learnt that Ant Group utilised big and real time data from Alibaba and Alipay to generate credit scores and analysed and calculate the amount to lend and the interest to charge. This process allows them to create a scoring and lending system. Their success is largely due to the easy access to big real time data and using these data to their advantage through machine learning and AI technologies.
 </p>
 
 <p>
-Through this project, I understand that data analytics is important and crucial to company’s growth and enable the company to transform to a smart business which differentiate them from traditional business. Company needs good data management and analytical tools to make informed decision as data is only good if we know how to use it.
+Through this project, I understand that data analytics is important and crucial to company's growth and enable the company to transform to a smart business which differentiate them from traditional businesses. Company needs good data management and analytical tools to make informed decision as data is only good if we know how to use it.
 </p>
 
 - <a href="#Portfolio">Go to top</a>
