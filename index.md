@@ -13,7 +13,7 @@
 
 <img src="images/AntGroup.jpg?raw=true"/>
 
-<a href="#Portfolio">Go to top</a>
+- <a href="#Portfolio">Go to top</a>
 ---
 ### <h3 id= "ED">Capstone Project 1: Excel Dashboard</h2>
 
