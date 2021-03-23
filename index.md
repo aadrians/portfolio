@@ -1,5 +1,11 @@
 ## <h2 id="Portfolio">Portfolio</h2>
 ---
+- <a href="#BS">Basic Science</a>
+- <a href="#ED">Excel Dashboarde</a>
+- <a href="#SQL">MS SQL</a>
+- <a href="#PBI">Power BI</a>
+- <a href="#Py">Python</a>
+---
 
 ### <h2 id="BS">Initial Project: Basic Science</h2>
 
@@ -7,7 +13,7 @@
 
 <img src="images/AntGroup.jpg?raw=true"/>
 
-
+- <a href="#Portfolio">Go to top</a>
 ---
 ### <h2 id= "ED">Capstone Project 1: Excel Dashboard</h2>
 
@@ -16,6 +22,7 @@
 
 <img src="images/Diamonds_Dashboard.jpg?raw=true"/>
 
+- <a href="#Portfolio">Go to top</a>
 ---
 ### <h2 id= "SQL">Capstone Project 2: MS SQL</h2>
 
@@ -32,13 +39,13 @@
 
 <img src="images/HairSalon_Functions.jpg?raw=true"/>
 
-
+- <a href="#Portfolio">Go to top</a>
 ---
 ### <h2 id= "PBI">Capstone Project 3: Power BI</h2>
 [Download PowerBI](pdf/UK_Accident.pbix)
 <img src="images/UKAccidents_PowerBI.jpg?raw=true"/>
 
-
+- <a href="#Portfolio">Go to top</a>
 ---
 ### <h2 id= "Py">Capstone Project 4: Python (Modelling)</h2>
 [Download PDF](pdf/Diamonds_df.pdf)
@@ -49,7 +56,7 @@
 <img src="images/Diamonds_Python_Feature.jpg?raw=true"/>
 
 
-
+- <a href="#Portfolio">Go to top</a>
 ---
 
 - <a href="#Portfolio">Go to top</a>
