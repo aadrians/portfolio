@@ -32,7 +32,25 @@ Through this project, I understand that data analytics is important and crucial 
 
 <img src="images/Diamonds.jpg?raw=true"/>
 
+<p>
+The first Capstone project required us to showcase our dashboard in excel. We are to search for raw data and 'clean' the data through the Power Query application in excel.
+The data on diamonds caught my attention and I decided to use this data for the project. Although the data has only 10 columns, it has about 54,000 rows which made it a relatively large dataset.
+Thankfully, the data was quite complete and little to be done on 'cleaning' the data.
+</p>
+
+<p>
+The objective of the analysis is to create visualisation of the data and to estimate the price of diamonds given some criteria.
+In the midst of preparing the visuals on carat size, the different carats in the raw data makes the chart difficult to read. Therefore, I grouped the carat sizes into few categories and the grouping makes the chart more presentable.
+For the visualisation, I focused on the 4Cs: Carat, Cut, Color and Clarity.
+The dashboard can be seen from below image.
+</p>
+
 <img src="images/Diamonds_Dashboard.jpg?raw=true"/>
+
+<p>
+The visuals present meaningful insights to different aspects of the data. Using the pie charts for the count of the 4Cs allows us to see the numbers of diamonds in each category, while the hybrid of bar and line charts 
+</p>
+
 
 [Download Excel Dashboard](pdf/diamonds.xlsx)
 
