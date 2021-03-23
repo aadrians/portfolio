@@ -12,16 +12,16 @@
 <img src="images/AntGroup.jpg?raw=true"/>
 
 <p>
-This is the initial project where the objective is for us to have a better understanding on what is Data Science.
-We are tasked to search for practical applications/use cases of data science in the article(s) and identify the different aspects of the basics of data science application to that selected articles.
+This was the initial project where the objective was to have a better understanding on what is Data Science.
+We were tasked to search for practical applications/use cases of data science in the article(s) and identify the different aspects of the basics of data science application to that selected articles.
 </p>
 
 <p>
-I selected Ant Group as the point of research and gathered few articles on how Ant Group transformed itself to a smart business by using machine learning to leverage data. I learnt that Ant Group utilised big and real time data from Alibaba and Alipay to generate credit scores and analysed and calculate the amount to lend and the interest to charge. This process allows them to create a scoring and lending system. Their success is largely due to the easy access to big real time data and using these data to their advantage through machine learning and AI technologies.
+I selected Ant Group as the point of research and gathered few articles on how Ant Group transformed itself to a smart business by using machine learning to leverage data. I learnt that Ant Group utilised big and real time data from Alibaba and Alipay to generate credit scores and analysed and calculate the amount to lend and the interest to charge. This process allowed them to create a scoring and lending system. Their success was largely due to the easy access to big real time data and using these data to their advantage through machine learning and AI technologies.
 </p>
 
 <p>
-Through this project, I understand that data analytics is important and crucial to company's growth and enable the company to transform to a smart business which differentiate them from traditional businesses. Company needs good data management and analytical tools to make informed decision as data is only good if we know how to use it.
+Through this project, I understood that data analytics is important and crucial to company's growth and enabled the company to transform to a smart business which differentiated them from traditional businesses. Company needs good data management and analytical tools to make informed decision as data is only good if we know how to use it.
 </p>
 
 [Download PDF](pdf/AntGroup.pdf)
@@ -33,14 +33,14 @@ Through this project, I understand that data analytics is important and crucial 
 <img src="images/Diamonds.jpg?raw=true"/>
 
 <p>
-The first Capstone project required us to showcase our dashboard in excel. We are to search for raw data and 'clean' the data through the Power Query application in excel.
-The data on diamonds caught my attention and I decided to use this data for the project. Although the data has only 10 columns, it has about 54,000 rows which made it a relatively large dataset.
+The first Capstone project required us to showcase our dashboard in excel. We were to search for raw data and 'clean' the data through the Power Query application in excel.
+The data on diamonds caught my attention and I decided to use this data for the project. Although the data had only 10 columns, it had about 54,000 rows which made it a relatively large dataset.
 Thankfully, the data was quite complete and little to be done on 'cleaning' the data.
 </p>
 
 <p>
-The objective of the analysis is to create visualisation of the data and to estimate the price of diamonds given some criteria.
-In the midst of preparing the visuals on carat size, the different carats in the raw data makes the chart difficult to read. Therefore, I grouped the carat sizes into few categories and the grouping makes the chart more presentable.
+The objective of the analysis was to create visualisation of the data and to estimate the price of diamonds given some features.
+In the midst of preparing the visuals on carat size, the different carats in the raw data made the chart difficult to read. Therefore, I grouped the carat sizes into few categories and the grouping made the chart more presentable.
 For the visualisation, I focused on the 4Cs: Carat, Color, Clarity and Cut.
 The dashboard can be seen from below image.
 </p>
@@ -48,16 +48,17 @@ The dashboard can be seen from below image.
 <img src="images/Diamonds_Dashboard.jpg?raw=true"/>
 
 <p>
-The visuals presented meaningful insights to different aspects of the data. Using the pie charts for the proportions of the 4Cs allows us to see the numbers of diamonds in each category, while the hybrid of bar and line charts present us with the count and average price of the diamonds in different categories.
-Slicers were also added for easy filtering. When the different categories are sliced, the charts changes accordingly to the filters. This enables us to look at the charts based on the selection and gained insights such as trends.
+The visuals presented meaningful insights to different aspects of the data. Using the pie charts for the proportions of the 4Cs showed the numbers of diamonds in each category, while the hybrid of bar and line charts showed the count and average price of the diamonds in different categories.
+Slicers were also added for easy filtering. When the different categories were sliced, the charts changed accordingly. This enabled us to look at the charts based on the selection and gain insights such as trends.
 From the chart analysis, I was able to conclude that the dominant factor of diamond's price is the carat size.
 </p>
 
 <p>
-To add more fun to the project, I created an average price graph for the estimation of diamond price based on selected criteria. A fellow classmate is to indicate the budget and the 4Cs in which an estimated price from the graph was given based on the selection.
+To add more fun to the project, I created an average price graph for the estimation of diamond price based on selected features. A fellow classmate was to indicate the 4Cs in which an estimated price from the graph was given based on the selection.
 The graph can be referenced from the image below.
 </p>
 
+<img src="images/Diamonds_Price.jpg?raw=true"/>
 
 [Download Excel Dashboard](pdf/diamonds.xlsx)
 
@@ -66,6 +67,21 @@ The graph can be referenced from the image below.
 <h2 id="SQL">Capstone Project 2: MS SQL</h2>
 
 <img src="images/HairSalon_Main_SQL.jpg?raw=true"/>
+
+<p>
+In Capstone Project 2, we were to ulitise the SQL commands and functions to perform queries on a dataset, analysis on the queries, load the queries into excel and create interactive Dashboard and visualisation using excel dashboards.
+For this project, I used a dataset of a Hair Salon.
+</p>
+
+<p>
+The most challenging part of this project was to create a new list of customers with details such as first and last name and contact numbers, which was totally unrelated to the SQL course. The customer list was essential to make the queries and analysis more relevant. Thus, I challenged myself to create such a list.
+The data on the customers had only client ID and gender. The client ID from Booking and Cancellation tables were used as the unique key and the gender was defined from the services rendered in the Booking and Cancellation tables. In order to make the list more realistic, I used the common first names by genders and common last names in US and randomised the names based on the gender of the client in the table. Contact numbers were also randomised using a formula that I found through the web.
+</p>
+
+<p>
+The importance and success of this project were to extract the relevat data from the tables in SQL using the specific or appropriate SQL syntax. This was not an easy feat as it required logical thinking and understanding of the syntax. There were a few instances where the mighty Google was needed to search for the suitable syntax.
+Below are few examples of the SQL syntax used to the extract the information and charts created to visualise the analysis.
+</p>
 
 <img src="images/HairSalon_Busiest.jpg?raw=true"/>
 
