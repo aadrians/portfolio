@@ -4,7 +4,7 @@
 - <a href="#ED">Excel Dashboard</a>
 - <a href="#SQL">MS SQL</a>
 - <a href="#PBI">Power BI</a>
-<!-- - <a href="#Python">Python</a> -->
+- <a href="#PYT">Python</a>
 ---
 
 <h2 id="BS">Initial Project: Basic Science</h2>
@@ -47,7 +47,7 @@
 
 - <a href="#Portfolio">Go to top</a>
 ---
-<h2 id="Python">Capstone Project 4: Python (Modelling)</h2>
+<h2 id="PYT">Capstone Project 4: Python (Modelling)</h2>
 [Download PDF](pdf/Diamonds_df.pdf)
 <img src="images/Diamonds_Python.jpg?raw=true"/>
 
