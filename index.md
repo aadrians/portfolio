@@ -107,6 +107,22 @@ Below are few examples of the SQL syntax used to the extract the information and
 
 <h2 id="PYT">Capstone Project 4: Python (Modelling)</h2>
 
+<p>
+Python was the hardest module of the course and the project timeline was short given that the codes were not easy to understand. As such, multiple trials and errors on the coding were explored for this project.
+We were tasked to formulate the hypothesis/objective, perform feature engineering, build the machine learning models and evaluate the performance of the models.
+</p>
+
+<p>
+The dataset, Diamonds, of capstone 1 project was chosen for this instance in view of the familiarity with the data and limited time for data search. The objective was set to predict the diamond price within 15% difference and predict the price of a diamond with given features.
+3 models, Simple Linear Regression ("SLR"), Multiple Linear Regression ("MLR") and Random Forest Regression ("RFR") were used for the prediction of the price. Similarly, I focused on the 4Cs as the main features of the models. As SLR model required only 2 variables, Carat (X) and price (Y) were selected. For the rest of the models, 4Cs (X) and price (Y) were selected since the models catered for multiple features and these were the suitable features.
+</p>
+
+<p>
+Mean Absolute Error was used to evaluate the models as I am looking for the absolute difference and the comparisons of predicted versus observed.
+The RFR model had the least mean absolute error, best training and test score and the percentage of the price difference below 15% was the highest. This meant that the RFR model had the highest prediction accuracy. The predicted price was derived by selecting specific features. The predicted price was close to the prices quoted by few websites of diamond sellers, which also validated the accuracy of the RFR model prediction.
+Feature importance in determining the diamond price was also charted and unsurprisingly, carat is the most important feature. However, even though carat is the most important feature of the diamond price, we cannot solely based on carat to predict the diamond price (as evident in SLR model). 
+</p>
+
 <img src="images/Diamonds_Python.jpg?raw=true"/>
 
 <img src="images/Diamonds_Python_Results.jpg?raw=true"/>
