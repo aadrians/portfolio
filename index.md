@@ -107,11 +107,11 @@ The main aim of this capstone project is to exhibit the stages of the data lifec
 The data on UK car accidents was chosen for this project. The data contained multiple columns and details which were suitable to display the attributes learnt in PowerBI module. Minor amendments were done such as removed unwanted rows and columns, replacing values and adding conditional column. To differentiate the timings of the accidents as day or night, a formula was applied to create a column for the purpose.
 </p>
 
-<img src="images/UKAccidents_Questions.jpg?raw=true"/>
-
 <p>
 Questions were set for the analysis and visualisations.
 </p>
+
+<img src="images/UKAccidents_Questions.jpg?raw=true"/>
 
 <img src="images/UKAccidents_PowerBI.jpg?raw=true"/>
 
