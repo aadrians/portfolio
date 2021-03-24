@@ -60,7 +60,7 @@ The graph can be referenced from the image below.
 
 <img src="images/Diamonds_Price.jpg?raw=true"/>
 
-[Download Excel Dashboard](pdf/diamonds.xlsx)
+[Download PDF](pdf/diamonds.pdf)
 
 <a href="#Portfolio">Back to top</a>
 
@@ -99,17 +99,27 @@ Below are few examples of the SQL syntax used to the extract the information and
 
 <h2 id="PBI">Capstone Project 3: Power BI</h2>
 
-<img src="images/UKAccidents_PowerBI.jpg?raw=true"/>
-
-[Download PowerBI](pdf/UK_Accident.pbix)
-
 <p>
 The main aim of this capstone project is to exhibit the stages of the data lifecycle using PowerBI on the dataset. It was required to create reports and interactive dashboard in PowerBI.
 </p>
 
 <p>
-The data on UK car accidents was chosen for this project. The data contained multiple columns and details which were suitable to display the attributes learnt in PowerBI module.
+The data on UK car accidents was chosen for this project. The data contained multiple columns and details which were suitable to display the attributes learnt in PowerBI module. Minor amendments were done such as removed unwanted rows and columns, replacing values and adding conditional column. To differentiate the timings of the accidents as day or night, a formula was applied to create a column for the purpose.
 </p>
+
+<img src="images/UKAccidents_Questions.jpg?raw=true"/>
+
+<p>
+Questions were set for the analysis and visualisations.
+</p>
+
+<img src="images/UKAccidents_PowerBI.jpg?raw=true"/>
+
+<p>
+The dashboard contained visuals and chart pertaining to the questions. It was found that most of the accidents happened in the Day time, during the morning and evening rush hours. The highest percentage of accidents occured at about 50km/hr with the large number of accidents involving 2 cars. On the whole, lighting and road conditions had little influence on the accidents. It was no doubt that most of the accidents happened in the cities where population were dense.
+</p>
+
+[Download PDF](pdf/UK_Accident.pdf)
 
 <a href="#Portfolio">Back to top</a>
 
