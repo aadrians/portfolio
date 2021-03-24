@@ -17,7 +17,7 @@ We were tasked to search for practical applications/use cases of data science in
 </p>
 
 <p>
-I selected Ant Group as the point of research and gathered few articles on how Ant Group transformed itself to a smart business by using machine learning to leverage data. I learnt that Ant Group utilised big and real time data from Alibaba and Alipay to generate credit scores and analysed and calculate the amount to lend and the interest to charge. This process allowed them to create a scoring and lending system. Their success was largely due to the easy access to big real time data and using these data to their advantage through machine learning and AI technologies.
+I selected Ant Group as the point of research and gathered few articles on how Ant Group transformed itself to a smart business by using machine learning to leverage data. I learnt that Ant Group utilised big and real time data from Alibaba and Alipay to generate credit scores and analysed and calculate the amount to lend and the interest to charge. This process allowed them to create a scoring and lending system. Their success was largely due to the easy access to big real time data and utilising these data to their advantage through machine learning and AI technologies.
 </p>
 
 <p>
@@ -35,7 +35,7 @@ Through this project, I understood that data analytics is important and crucial 
 <p>
 The first Capstone project required us to showcase our dashboard in excel. We were to search for raw data and 'clean' the data through the Power Query application in excel.
 The data on diamonds caught my attention and I decided to use this data for the project. Although the data had only 10 columns, it had about 54,000 rows which made it a relatively large dataset.
-Thankfully, the data was quite complete and little to be done on 'cleaning' the data.
+Thankfully, the data was quite complete and little had to be done on 'cleaning' the data.
 </p>
 
 <p>
@@ -69,17 +69,17 @@ The graph can be referenced from the image below.
 <img src="images/HairSalon_Main_SQL.jpg?raw=true"/>
 
 <p>
-In Capstone Project 2, we were to ulitise the SQL commands and functions to perform queries on a dataset, analysis on the queries, load the queries into excel and create interactive Dashboard and visualisation using excel dashboards.
+In Capstone Project 2, we were to ulitise the SQL commands and functions to perform queries on a dataset, analyse the queries, load the queries into excel and create interactive Dashboard and visualisation using excel dashboards.
 For this project, I used a dataset of a Hair Salon.
 </p>
 
 <p>
-The most challenging part of this project was to create a new list of customers with details such as first and last name and contact numbers, which was totally unrelated to the SQL course. The customer list was essential to make the queries and analysis more relevant. Thus, I challenged myself to create such a list.
-The data on the customers had only client ID and gender. The client ID from Booking and Cancellation tables were used as the unique key and the gender was defined from the services rendered in the Booking and Cancellation tables. In order to make the list more realistic, I used the common first names by genders and common last names in US and randomised the names based on the gender of the client in the table. Contact numbers were also randomised using a formula that I found through the web.
+The most challenging part of this project was to create a new list of customers with details such as first and last name and contact numbers, which was totally unrelated to the SQL course. The customer list was essential to make the queries and analysis more relevant. Thus, I challenged myself to create such list.
+The client ID and gender were the only data on the customers. The client ID from Booking and Cancellation tables were used as the unique key and the gender was defined from the services rendered in the Booking and Cancellation tables. In order to make the list more realistic, I used the common first names by genders and common last names in US and randomised the names based on the gender of the client in the table. Contact numbers were also randomised using a formula that I found through the web.
 </p>
 
 <p>
-The importance and success of this project were to extract the relevat data from the tables in SQL using the specific or appropriate SQL syntax. This was not an easy feat as it required logical thinking and understanding of the syntax. There were a few instances where the mighty Google was needed to search for the suitable syntax.
+The importance and success of this project were to extract the relevat data from the tables in SQL using specific or appropriate SQL syntax. This was not an easy feat as it required logical thinking and understanding of the syntax. There were a few instances where the mighty Google was needed to search for the suitable syntax.
 Below are few examples of the SQL syntax used to the extract the information and charts created to visualise the analysis.
 </p>
 
@@ -92,6 +92,10 @@ Below are few examples of the SQL syntax used to the extract the information and
 <img src="images/HairSalon_StoredProcedures.jpg?raw=true"/>
 
 <img src="images/HairSalon_Functions.jpg?raw=true"/>
+
+<p>
+From the analysis, we could deduce that the owner was able to better manage its product availability through stocktaking chart and query, identifying the top clients, knowing the rankings of the services, understanding the volume of transactions and bookings differentiated by day of the week, top salesperson and the no show rate. To ease the search of client details such as contact number, stored procedures were created and client details could be retrieved by using client ID or client name. A function was also built to calculate total amount including taxes.
+</p>
 
 [Download PDF](pdf/HairSalon_PP.pdf)
 
@@ -133,7 +137,7 @@ We were tasked to formulate the hypothesis/objective, perform feature engineerin
 <img src="images/Diamonds_Python.jpg?raw=true"/>
 
 <p>
-The dataset, Diamonds, of capstone 1 project was chosen for this instance in view of the familiarity with the data and limited time for data search. The objective was set to predict the diamond price within 15% difference and predict the price of a diamond with given features.
+The dataset, Diamonds, of Capstone 1 project was chosen for this instance in view of the familiarity of the data and limited time for data search. The objective was set to predict the diamond price within 15% difference and predict the price of a diamond with given features.
 3 models, Simple Linear Regression ("SLR"), Multiple Linear Regression ("MLR") and Random Forest Regression ("RFR") were used for the prediction of the price. Similarly, I focused on the 4Cs as the main features of the models. As SLR model required only 2 variables, Carat (X) and price (Y) were selected. For the rest of the models, 4Cs (X) and price (Y) were selected since the models catered for multiple features and these were the suitable features.
 </p>
 
