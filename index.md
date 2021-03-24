@@ -26,7 +26,7 @@ Through this project, I understood that data analytics is important and crucial 
 
 [Download PDF](pdf/AntGroup.pdf)
 
-<a href="https://aadrians.github.io/portfolio">Go to top</a>
+<a href="https://aadrians.github.io/portfolio">Back to top</a>
 
 <h2 id="ED">Capstone Project 1: Excel Dashboard</h2>
 
@@ -62,7 +62,7 @@ The graph can be referenced from the image below.
 
 [Download Excel Dashboard](pdf/diamonds.xlsx)
 
-- <a href="#Portfolio">Go to top</a>
+<a href="https://aadrians.github.io/portfolio">Back to top</a>
 
 <h2 id="SQL">Capstone Project 2: MS SQL</h2>
 
@@ -95,7 +95,7 @@ Below are few examples of the SQL syntax used to the extract the information and
 
 [Download PDF](pdf/HairSalon_PP.pdf)
 
-- <a href="#Portfolio">Go to top</a>
+<a href="https://aadrians.github.io/portfolio">Back to top</a>
 
 <h2 id="PBI">Capstone Project 3: Power BI</h2>
 
@@ -111,7 +111,7 @@ The main aim of this capstone project is to exhibit the stages of the data lifec
 The data on UK car accidents was chosen for this project. The data contained multiple columns and details which were suitable to display the attributes learnt in PowerBI module.
 </p>
 
-- <a href="#Portfolio">Go to top</a>
+<a href="https://aadrians.github.io/portfolio">Back to top</a>
 
 <h2 id="PYT">Capstone Project 4: Python (Modelling)</h2>
 
@@ -142,7 +142,7 @@ Feature importance in determining the diamond price was also charted. Unsurprisi
 
 [Download PDF](pdf/Diamonds_df.pdf)
 
-- <a href="#Portfolio">Go to top</a>
+<a href="https://aadrians.github.io/portfolio">Back to top</a>
 
 
 
