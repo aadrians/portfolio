@@ -26,7 +26,7 @@ Through this project, I understood that data analytics is important and crucial 
 
 [Download PDF](pdf/AntGroup.pdf)
 
-<a href="#Portfolio">Go to top</a>
+<a href="https://aadrians.github.io/portfolio">Go to top</a>
 
 <h2 id="ED">Capstone Project 1: Excel Dashboard</h2>
 
