@@ -103,12 +103,20 @@ Below are few examples of the SQL syntax used to the extract the information and
 
 [Download PowerBI](pdf/UK_Accident.pbix)
 
+<p>
+The main aim of this capstone project is to exhibit the stages of the data lifecycle using PowerBI on the dataset. It was required to create reports and interactive dashboard in PowerBI.
+</p>
+
+<p>
+The data on UK car accidents was chosen for this project. The data contained multiple columns and details which were suitable to display the attributes learnt in PowerBI module.
+</p>
+
 - <a href="#Portfolio">Go to top</a>
 
 <h2 id="PYT">Capstone Project 4: Python (Modelling)</h2>
 
 <p>
-Python was the hardest module of the course and the project timeline was short given that the codes were not easy to understand. As such, multiple trials and errors on the coding were explored for this project.
+Python was the hardest module of the course and the project timeline was short given that the codes were not easily understandable. As such, multiple trials and errors on the coding were explored for this project.
 We were tasked to formulate the hypothesis/objective, perform feature engineering, build the machine learning models and evaluate the performance of the models.
 </p>
 
@@ -120,7 +128,10 @@ The dataset, Diamonds, of capstone 1 project was chosen for this instance in vie
 <p>
 Mean Absolute Error was used to evaluate the models as I am looking for the absolute difference and the comparisons of predicted versus observed.
 The RFR model had the least mean absolute error, best training and test score and the percentage of the price difference below 15% was the highest. This meant that the RFR model had the highest prediction accuracy. The predicted price was derived by selecting specific features. The predicted price was close to the prices quoted by few websites of diamond sellers, which also validated the accuracy of the RFR model prediction.
-Feature importance in determining the diamond price was also charted and unsurprisingly, carat is the most important feature. However, even though carat is the most important feature of the diamond price, we cannot solely based on carat to predict the diamond price (as evident in SLR model). 
+</p>
+
+<p>
+Feature importance in determining the diamond price was also charted. Unsurprisingly, carat is the most important feature. However, even though carat is the most important feature of the diamond price, we cannot solely based on carat to predict the diamond price (as evident in SLR model). 
 </p>
 
 <img src="images/Diamonds_Python.jpg?raw=true"/>
